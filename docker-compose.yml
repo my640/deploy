@@ -1,6 +1,6 @@
 version: '3'
 services:
   nginx:
-    image: nginx
+    image: myoshida432/docker-cicd:202506111512
     ports:
       - "8080:80"
