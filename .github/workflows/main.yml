@@ -6,7 +6,7 @@ on:
       - main
       
 jobs:
-  docker-compose:
+  docker-compose: 
     runs-on: self-hosted
     
     steps:
